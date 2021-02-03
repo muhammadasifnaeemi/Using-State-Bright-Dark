@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Bright{
+  background-color: white;
+  color: black;
+}
+.Dark{
+  background-color: black;
+  color: white;
+}
+
+#bground{
+  width: 100%;
+  height: 39em;
+  text-align: center;
+}
+
+#text{
+   padding-top: 20%;
+   font-size: 70px;
+}
